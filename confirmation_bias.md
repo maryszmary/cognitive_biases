@@ -20,6 +20,10 @@ https://jamesclear.com/wp-content/uploads/2015/09/confirmation-bias-700x467.jpg
 
 ## Больше Примеров
 
+* пример
+
+* пример
+
 А вот пример из моей жизни. Давно-давно, когда я была маленькой и наивной, трава была зеленее, а солнце ярче... — в общем, в далёком 2015 — я искренне верила, что...
 
 ## Разновидности
@@ -47,11 +51,12 @@ https://jamesclear.com/wp-content/uploads/2015/09/confirmation-bias-700x467.jpg
 
 Выйти из этого положения можно, попытавшись вспомнить одно из своих предыдущих убеждений, которое больше не кажется вам истинным, и подумать, как
 
+## TODO: утащенные картинки, которые нужно будет повставлять в нужные места
 
-http://chainsawsuit.com/comic/2014/09/16/on-research/
-https://jamesclear.com/wp-content/uploads/2015/09/confirmation-bias-700x467.jpg
-http://www.azquotes.com/picture-quotes/quote-ever-since-i-learnt-about-confirmation-bias-i-ve-started-seeing-it-everywhere-jon-ronson-79-80-39.jpg
-https://cdn-images-1.medium.com/max/800/1*P9Ko9pv5vT37DvGkEsg7jw.png
+* http://chainsawsuit.com/comic/2014/09/16/on-research/
+* https://jamesclear.com/wp-content/uploads/2015/09/confirmation-bias-700x467.jpg
+* http://www.azquotes.com/picture-quotes/quote-ever-since-i-learnt-about-confirmation-bias-i-ve-started-seeing-it-everywhere-jon-ronson-79-80-39.jpg
+* https://cdn-images-1.medium.com/max/800/1*P9Ko9pv5vT37DvGkEsg7jw.png
 
 ## Что ещё почитать
 
