@@ -107,10 +107,10 @@
 
   Выйти из этого положения можно, попытавшись вспомнить одно из своих предыдущих убеждений, которое больше не кажется вам истинным, и подумать, как
 
-## TODO: утащенные картинки, которые нужно будет повставлять в нужные места
+## Такие дела!
 
-* http://chainsawsuit.com/comic/2014/09/16/on-research/
-* http://www.azquotes.com/picture-quotes/quote-ever-since-i-learnt-about-confirmation-bias-i-ve-started-seeing-it-everywhere-jon-ronson-79-80-39.jpg
+(И не забудьте, что подтверждающее искажение возможно даже по поводу... подтверждающего искажения).
+![irony](http://www.azquotes.com/picture-quotes/quote-ever-since-i-learnt-about-confirmation-bias-i-ve-started-seeing-it-everywhere-jon-ronson-79-80-39.jpg)
 
 ## О нас
 
